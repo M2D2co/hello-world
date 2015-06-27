@@ -1,0 +1,5 @@
+FUNC Main() int
+	IO.print("Z is for Zimbu")
+	RETURN 0
+}
+
